@@ -1,8 +1,8 @@
 <?php
 // Koneksi ke database
 $host = "localhost";
-$user = "dzaky";
-$pass = "gggaming21";   
+$user = "root";
+$pass = "";   
 $db   = "dbsiswa";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
