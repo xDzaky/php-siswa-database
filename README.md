@@ -5,7 +5,7 @@ php-siswa-database/
 │
 ├── README.md
 ├── siswa.sql
-└── contoh_koneksi.php
+└── index.php
 ```
 
 ---
@@ -33,7 +33,7 @@ Database ini mencakup data siswa seperti:
 php-siswa-database/
 ├── README.md
 ├── siswa.sql
-└── contoh\_koneksi.php
+└── index.php
 
 ````
 
@@ -103,7 +103,6 @@ INSERT INTO siswa (nama, kelas, gender, umur, alamat, no_hp, email, tanggal_lahi
 ('Budi Santoso', 'XI TKJ 1', 'Laki-laki', 17, 'Jl. Kenanga No. 7', '081234567892', 'budi@example.com', '2007-03-10', 'Basket'),
 ('Rina Kartika', 'XII MM 2', 'Perempuan', 18, 'Jl. Anggrek No. 8', '081234567893', 'rina@example.com', '2006-04-05', 'Fotografi'),
 ('Fajar Pratama', 'XI RPL 1', 'Laki-laki', 17, 'Jl. Flamboyan No. 9', '081234567894', 'fajar@example.com', '2007-05-12', 'Coding');
--- Tambahkan data dummy sesuai kebutuhan
 ````
 
 ---
